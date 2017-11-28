@@ -36,13 +36,13 @@
  <distributionManagement>
 	<repository>
 		<id>deployment</id>
-		<name>Internal Releases</name>
+		<name>Internal Releases1</name>
 		<url>http://10.0.2.15:8081/nexus/content/repositories/hp/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>deployment</id>
-		<name>Internal Snapshots</name>
+		<name>Internal Snapshots1</name>
 		<url>http://10.0.2.15:8081/nexus/content/repositories/hpsnap/</url>
 	</snapshotRepository>
 
